@@ -1,0 +1,113 @@
+{
+    "title": {
+        "runs": [{
+                "text": "コメントとチャットでユーザー名の横に表示するメンバー用バッジ"
+            }
+        ]
+    },
+    "loyaltyBadges": {
+        "sponsorshipsLoyaltyBadgesRenderer": {
+            "loyaltyBadges": [{
+                    "sponsorshipsLoyaltyBadgeRenderer": {
+                        "icon": {
+                            "thumbnails": [{
+                                    "url": "https://yt3.ggpht.com/bzsK4Oj7QQydUCTdHC0fwPW7qb2cSf1qDWJ09w8DIWKIy5Qu6VCbU7VWZlUmfJe1Cg4G9JHoBA=s64-k-nd"
+                                }
+                            ]
+                        },
+                        "title": {
+                            "runs": [{
+                                    "text": "新しいメンバーバッジ:"
+                                }
+                            ]
+                        }
+                    }
+                }, {
+                    "sponsorshipsLoyaltyBadgeRenderer": {
+                        "icon": {
+                            "thumbnails": [{
+                                    "url": "https://yt3.ggpht.com/SaYmiDWKja0vf301oVBKPPLJJ_TjN8NprC6tgqKoCfU0kq8Hqt1nOThiNzwnt1OjBH1yaclHjr0=s64-k-nd"
+                                }
+                            ]
+                        },
+                        "title": {
+                            "runs": [{
+                                    "text": "1 か月目のバッジ:"
+                                }
+                            ]
+                        }
+                    }
+                }, {
+                    "sponsorshipsLoyaltyBadgeRenderer": {
+                        "icon": {
+                            "thumbnails": [{
+                                    "url": "https://yt3.ggpht.com/49Qa44W-ea33RFu-J4WZFpRxRMvVFPQs6p5Ohg1ZN5S6tQ26PlO45JCHeyBM0_z4FG6v95Zy6w=s64-k-nd"
+                                }
+                            ]
+                        },
+                        "title": {
+                            "runs": [{
+                                    "text": "2"
+                                }, {
+                                    "text": " か月目のバッジ:"
+                                }
+                            ]
+                        }
+                    }
+                }, {
+                    "sponsorshipsLoyaltyBadgeRenderer": {
+                        "icon": {
+                            "thumbnails": [{
+                                    "url": "https://yt3.ggpht.com/q8r4CwDEoFiGoKuDps2iWfIzRV67kpGuB3dUNFi5TmcDmf1zIH_poUWigEj8kYSVEYhAGCAP=s64-k-nd"
+                                }
+                            ]
+                        },
+                        "title": {
+                            "runs": [{
+                                    "text": "6"
+                                }, {
+                                    "text": " か月目のバッジ:"
+                                }
+                            ]
+                        }
+                    }
+                }, {
+                    "sponsorshipsLoyaltyBadgeRenderer": {
+                        "icon": {
+                            "thumbnails": [{
+                                    "url": "https://yt3.ggpht.com/erxGfy3IW3X-OmGIZwHEJI49GqJQp9278yrNQS_vaO5tBrlNkbWBW71Gfj-PMcAHNmUwcoJWYA=s64-k-nd"
+                                }
+                            ]
+                        },
+                        "title": {
+                            "runs": [{
+                                    "text": "12"
+                                }, {
+                                    "text": " か月目のバッジ:"
+                                }
+                            ]
+                        }
+                    }
+                }, {
+                    "sponsorshipsLoyaltyBadgeRenderer": {
+                        "icon": {
+                            "thumbnails": [{
+                                    "url": "https://yt3.ggpht.com/afhJytFNDuvb6baps0Mu5lX48rg93xNCIXciIlh4RpJmJv7bdWxsTfaNAooM81fFGOWwLMbP4g=s64-k-nd"
+                                }
+                            ]
+                        },
+                        "title": {
+                            "runs": [{
+                                    "text": "24"
+                                }, {
+                                    "text": " か月目のバッジ:"
+                                }
+                            ]
+                        }
+                    }
+                }
+            ],
+            "selected": 1
+        }
+    }
+}
