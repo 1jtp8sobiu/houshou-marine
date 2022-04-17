@@ -856,6 +856,22 @@
                 }
             }, {
                 "thumbnails": [{
+                        "url": "https://yt3.ggpht.com/QxUx3bbR-QjUmv_c98fIvr1J4aH47FV5k2voSVrMZc8JLJqPW-MV2gWDQs4OYbhtq9RiuEYE=w24-h24-c-k-nd",
+                        "width": 24,
+                        "height": 24
+                    }, {
+                        "url": "https://yt3.ggpht.com/QxUx3bbR-QjUmv_c98fIvr1J4aH47FV5k2voSVrMZc8JLJqPW-MV2gWDQs4OYbhtq9RiuEYE=w48-h48-c-k-nd",
+                        "width": 48,
+                        "height": 48
+                    }
+                ],
+                "accessibility": {
+                    "accessibilityData": {
+                        "label": "ムラムラのラ"
+                    }
+                }
+            }, {
+                "thumbnails": [{
                         "url": "https://yt3.ggpht.com/1iBEJvFtQGKEOrEdRCdASsONfhTONy5556v8tQYSK5R0cLX0ipbwR2huSZp8PiHdnJhZ-yUDrww=w24-h24-c-k-nd",
                         "width": 24,
                         "height": 24
