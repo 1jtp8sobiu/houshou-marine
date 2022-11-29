@@ -2,7 +2,7 @@
     "sponsorshipsPerkRenderer": {
         "title": {
             "runs": [{
-                    "text": "コメントとチャットでユーザー名の横に表示するメンバー用バッジ"
+                    "text": "Loyalty badges next to your name in comments and live chat"
                 }
             ]
         },
@@ -18,7 +18,7 @@
                             },
                             "title": {
                                 "runs": [{
-                                        "text": "新しいメンバーバッジ:"
+                                        "text": "New-member badge:"
                                     }
                                 ]
                             }
@@ -33,7 +33,7 @@
                             },
                             "title": {
                                 "runs": [{
-                                        "text": "1 か月目のバッジ:"
+                                        "text": "Month 1 badge:"
                                     }
                                 ]
                             }
@@ -48,9 +48,11 @@
                             },
                             "title": {
                                 "runs": [{
+                                        "text": "Month "
+                                    }, {
                                         "text": "2"
                                     }, {
-                                        "text": " か月目のバッジ:"
+                                        "text": " badge:"
                                     }
                                 ]
                             }
@@ -65,9 +67,11 @@
                             },
                             "title": {
                                 "runs": [{
+                                        "text": "Month "
+                                    }, {
                                         "text": "6"
                                     }, {
-                                        "text": " か月目のバッジ:"
+                                        "text": " badge:"
                                     }
                                 ]
                             }
@@ -82,9 +86,11 @@
                             },
                             "title": {
                                 "runs": [{
+                                        "text": "Month "
+                                    }, {
                                         "text": "12"
                                     }, {
-                                        "text": " か月目のバッジ:"
+                                        "text": " badge:"
                                     }
                                 ]
                             }
@@ -99,9 +105,49 @@
                             },
                             "title": {
                                 "runs": [{
+                                        "text": "Month "
+                                    }, {
                                         "text": "24"
                                     }, {
-                                        "text": " か月目のバッジ:"
+                                        "text": " badge:"
+                                    }
+                                ]
+                            }
+                        }
+                    }, {
+                        "sponsorshipsLoyaltyBadgeRenderer": {
+                            "icon": {
+                                "thumbnails": [{
+                                        "url": "https://yt3.ggpht.com/LuOxBk5Mr_eqgyO-ogpFERRJTkkL4cILp9Zt1frtA0FfhkTsscVOz3GxRXN7cb9Xv1sstQ1NyA=s64-k-nd"
+                                    }
+                                ]
+                            },
+                            "title": {
+                                "runs": [{
+                                        "text": "Month "
+                                    }, {
+                                        "text": "36"
+                                    }, {
+                                        "text": " badge:"
+                                    }
+                                ]
+                            }
+                        }
+                    }, {
+                        "sponsorshipsLoyaltyBadgeRenderer": {
+                            "icon": {
+                                "thumbnails": [{
+                                        "url": "https://yt3.ggpht.com/IrjKM5nUlFzoTviVmPzKTErA8va0YsIDZ1q4HCas91b6OsH4dMMgQoN86wNrB2V8nMlRv7T5kks=s64-k-nd"
+                                    }
+                                ]
+                            },
+                            "title": {
+                                "runs": [{
+                                        "text": "Month "
+                                    }, {
+                                        "text": "48"
+                                    }, {
+                                        "text": " badge:"
                                     }
                                 ]
                             }
